@@ -30,7 +30,7 @@ To Create the Schema, run the following syntax in MySQL Workbench:
   
 Walkthrough Video
 
-  ![Walkthroughvideo](img/TrackerWalkthrough.gif)
+  ![Walkthroughvideo](img/ECommerceWalkthrough.gif)
 
   
   ## License
