@@ -26,7 +26,7 @@ A back end for an e-commerce site using Sequelize with an Express.js API.
 
 To Create the Schema, run the following syntax in MySQL Workbench:
 
-  [Create Schema Schema](img/CreateSchemaECommerce.PNG)
+  ![Create Schema Schema](img/CreateSchemaECommerce.PNG)
   
 Walkthrough Video
 
